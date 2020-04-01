@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06398b9770ae8be3d3ca5d0e991207b1",
+    "revision": "c3c1e87a861d53461d99ba19e5b073ff",
     "url": "/xeonics/index.html"
   },
   {
-    "revision": "a73a3a01600a4d080ec8",
-    "url": "/xeonics/static/css/main.9882770e.chunk.css"
+    "revision": "c26bd713d0ad07de3512",
+    "url": "/xeonics/static/css/main.46393657.chunk.css"
   },
   {
     "revision": "b60c9c1d30ff3ba0ca30",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/xeonics/static/js/2.fdf5bfe2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a73a3a01600a4d080ec8",
-    "url": "/xeonics/static/js/main.ba036f0a.chunk.js"
+    "revision": "c26bd713d0ad07de3512",
+    "url": "/xeonics/static/js/main.507db2c3.chunk.js"
   },
   {
     "revision": "c4d6780be1356281ab5e",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0f8a486e2e7d40e49ce12d236d833e62",
     "url": "/xeonics/static/media/AboutImg.0f8a486e.jpg"
+  },
+  {
+    "revision": "7d17b94688edc68f520078b524c3c24f",
+    "url": "/xeonics/static/media/Xeonix logo.7d17b946.JPG"
   },
   {
     "revision": "78e81a90b1bca04a6073629462813c2f",
