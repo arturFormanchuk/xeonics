@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/xeonics/static/css/main.b646bf50.chunk.css",
-    "main.js": "/xeonics/static/js/main.b3b8d921.chunk.js",
-    "main.js.map": "/xeonics/static/js/main.b3b8d921.chunk.js.map",
+    "main.css": "/xeonics/static/css/main.75e064f3.chunk.css",
+    "main.js": "/xeonics/static/js/main.845cdd5b.chunk.js",
+    "main.js.map": "/xeonics/static/js/main.845cdd5b.chunk.js.map",
     "runtime-main.js": "/xeonics/static/js/runtime-main.468db3c1.js",
     "runtime-main.js.map": "/xeonics/static/js/runtime-main.468db3c1.js.map",
     "static/js/2.ca2070da.chunk.js": "/xeonics/static/js/2.ca2070da.chunk.js",
     "static/js/2.ca2070da.chunk.js.map": "/xeonics/static/js/2.ca2070da.chunk.js.map",
     "index.html": "/xeonics/index.html",
-    "precache-manifest.1f9a42271fe79769e7dcaf8e37fae465.js": "/xeonics/precache-manifest.1f9a42271fe79769e7dcaf8e37fae465.js",
+    "precache-manifest.8a21c446ad31908fa108f1916ee55272.js": "/xeonics/precache-manifest.8a21c446ad31908fa108f1916ee55272.js",
     "service-worker.js": "/xeonics/service-worker.js",
-    "static/css/main.b646bf50.chunk.css.map": "/xeonics/static/css/main.b646bf50.chunk.css.map",
+    "static/css/main.75e064f3.chunk.css.map": "/xeonics/static/css/main.75e064f3.chunk.css.map",
     "static/js/2.ca2070da.chunk.js.LICENSE.txt": "/xeonics/static/js/2.ca2070da.chunk.js.LICENSE.txt",
     "static/media/AboutImg.jpg": "/xeonics/static/media/AboutImg.0f8a486e.jpg",
     "static/media/Xeonix logo.JPG": "/xeonics/static/media/Xeonix logo.7d17b946.JPG",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.468db3c1.js",
     "static/js/2.ca2070da.chunk.js",
-    "static/css/main.b646bf50.chunk.css",
-    "static/js/main.b3b8d921.chunk.js"
+    "static/css/main.75e064f3.chunk.css",
+    "static/js/main.845cdd5b.chunk.js"
   ]
 }
