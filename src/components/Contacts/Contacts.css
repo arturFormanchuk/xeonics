@@ -1,0 +1,25 @@
+.aboutImg{
+  width: 90%;
+  height: 220px;
+  margin-top: 50px;
+}
+
+.contactsText{
+  margin-top: 50px;
+  width: 90%;
+  flex-wrap: wrap;
+}
+
+.contactsText h3{
+  color: #538234;
+}
+
+.contactsText p{
+  color: #666666;
+  margin-top: 10px;
+}
+
+.contactsText span{
+  font-weight: 600;
+  color: #538234;
+}

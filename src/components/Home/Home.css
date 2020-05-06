@@ -1,0 +1,16 @@
+
+.homeMain{
+  display: flex;
+  flex-direction: column;
+}
+
+.text{
+  margin-top: 50px;
+  color: #538234;
+}
+
+.homeImg{
+  margin-top: 30px;
+  width: 90%;
+  height: 40%;
+}

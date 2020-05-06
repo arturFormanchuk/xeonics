@@ -1,0 +1,65 @@
+.socialMediaBody{
+  width: 100%;
+  background-color: #FFFFFF;
+  margin-top: 20px;
+  border-top: 4px solid #538234;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.socialMediaTop{
+  padding: 10px 15px;
+  height: 30%;
+  width: 100%;
+
+}
+
+.socialMediaTop p{
+  font-size: 24px;
+  font-weight: 600;
+  color: #666666;
+}
+
+.socialMediaMiddle{
+  height: 30%;
+  width: 100%;
+  padding: 10px 15px;
+
+}
+
+.socialMediaMiddle p{
+  font-size: 14px;
+  color: #666666;
+}
+
+.socialPosition{
+  display: flex;
+
+}
+
+.facebookIco{
+  font-size: 42px;
+  text-decoration: none;
+  color: #888888;
+  transition: all .3s;
+}
+
+.facebookIco:hover{
+  color: blue;
+}
+
+.instagramIco{
+  font-size: 42px;
+  text-decoration: none;
+  color: #888888;
+  transition: all .3s;
+}
+
+.instagramIco:hover{
+  color: lightcoral;
+}
+
+.social{
+  margin: 0 15px;
+}

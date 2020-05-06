@@ -1,0 +1,19 @@
+.aboutImg{
+  width: 90%;
+  height: 220px;
+  margin-top: 50px;
+}
+
+.aboutText{
+  width: 90%;
+  flex-wrap: wrap;
+}
+
+.aboutText h3{
+  color: #538234;
+}
+
+.aboutText p{
+  color: #666666;
+  margin-top: 10px;
+}
